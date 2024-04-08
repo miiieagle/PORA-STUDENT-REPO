@@ -8,7 +8,7 @@
 
 
 const dev = (par1,par2) => {
-console.log("dev")
+console.log({sum:par1+par2})
 
 }
 
