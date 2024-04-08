@@ -1,9 +1,9 @@
-function celsiusToFahrenheit(Celsius1, Celsius2){
-   let result = Celsius1 + Celsius2;
-   
-   const Fahrenheit = (result * 9/5) + 32;
-   return Fahrenheit
-   console.log(result); 
-}
 
-console.log(celsiusToFahrenheit(30, 40))
+const dev = (par1,par2) => {
+   console.log({sum:par1+par2})
+   console.log("Adeyemi Deborah Doyinsola")
+   
+   }
+   
+   dev(2, 3)
+      
